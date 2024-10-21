@@ -8,6 +8,6 @@ Facies (Lithofacies) classification is a critical task for geoscientists in deve
 4. **Multi-layer Perceptron Classifier (Neural Network Classifier, NNC)**
 5. **K-Nearest Neighbors Classifier (KNN)**
 6. **Decision Tree Classifier (DT)**
-7. **Logistic Regression (LR)**
+7. **Logistic Regression (LR)** :
  
  
